@@ -7,7 +7,8 @@ This project demonstrates Google authentication (Gmail login) using Passport.js 
 Google OAuth Login: Users can log in with their Google account using Passport.js and Google OAuth 2.0.
 Session Management: Once authenticated, user data is saved in a session for persistent login.
 
-Technologies Used
+Technologies Used :
+
 Node.js: JavaScript runtime for server-side logic.
 Express.js: Web application framework for Node.js.
 Passport.js: Middleware for handling authentication.
